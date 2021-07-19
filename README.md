@@ -1,4 +1,4 @@
 ciao
 
 
-ciao, quiersto è un po'di contenuto che ti consiglio di considerare di integrare
+ciao, questo è un po' di contenuto che ti consiglio di considerare di integrare.
